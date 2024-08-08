@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Tanasvi Technology",
+    "startDate": "Jun, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Mycareerbuild Website","Reduced load time by 50%"],
+    "imageSrc": "history/mcb.png"
+  },
+  {
+    "role": "Jr. Software Engineer",
+    "organisation": "Tanasvi Technology",
+    "startDate": "Jan, 2022",
+    "endDate": "Jun 2022",
+    "experiences": ["Worked on component library","Helped create UI components"],
+    "imageSrc": "history/tanasvi.png"
+  }
+]
