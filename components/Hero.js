@@ -86,7 +86,7 @@ export default function Hero() {
               </Link>
 
               <a
-                href="/Satyajit-Mule-Resume.pdf"
+                href="/Satyajit_React_3Years.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-6 py-3 border-2 border-primary text-primary rounded-full hover:bg-primary hover:text-white transition-all"
@@ -146,3 +146,4 @@ export default function Hero() {
     </section>
   );
 }
+
